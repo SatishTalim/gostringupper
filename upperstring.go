@@ -1,9 +1,3 @@
-// References used:
-// http://golang.org/pkg/text/template/
-// http://golang.org/pkg/net/http/
-// https://developers.google.com/appengine/docs/go/config/appconfig
-// https://developers.google.com/appengine/docs/go/gettingstarted/handlingforms
-
 package stringupper
 
 import (
